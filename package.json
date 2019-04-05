@@ -9,6 +9,9 @@
     "now-build": "next build",
     "start": "node server.js"
   },
+  "engines": {
+    "node": "10.3.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
