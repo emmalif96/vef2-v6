@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { updateTodo, deleteTodo } from '../../api';
 import Link from 'next/link';
 
-import css from './todoDetail.css';
+import css from './TodoDetail.css';
 import Button from '../button/Button.js';
 import Errors from '../errors/Errors.js';
 // Stakt verkefni á /:id
